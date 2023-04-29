@@ -1,4 +1,4 @@
-# Currency-Counter in Java.
+# Currency-Converter in Java.
 
 __1. The window displayed on running the program.__
 
